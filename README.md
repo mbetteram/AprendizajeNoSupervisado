@@ -19,4 +19,4 @@ https://github.com/mbetteram/AprendizajeNoSupervisado/blob/main/ntb_clustering_2
 - **Actividad 5** - Embeddings y técnicas de clustering:
 https://github.com/mbetteram/AprendizajeNoSupervisado/blob/main/ntb_embeddings_3_fifa2020.ipynb
 - **Actividad 6** - Evaluación. **Actividad 7** -  Pregunta: ¿Se realizó alguna normalización de la base? ¿Por qué ?:
-https://docs.google.com/document/d/1-wT5U2Pthz4GUQBY1RMlp2AxmTE40bK7zwrq5Ap2XcQ/edit?usp=sharing
+https://github.com/mbetteram/AprendizajeNoSupervisado/blob/main/Conclusiones.pdf
